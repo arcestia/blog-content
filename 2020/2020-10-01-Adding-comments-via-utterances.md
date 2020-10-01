@@ -3,7 +3,6 @@ title: Adding Comments (via Utterances)
 updated: 2020-10-01 00:00
 ---
 
-# Adding Comments (via Utterances)
 
 I've gone back and forth about whether or not to have comments on the site. Most of all, I've liked having absolutely no server or external scripts on the site, and not having to moderate comments that are publicly facing on the site.
 
